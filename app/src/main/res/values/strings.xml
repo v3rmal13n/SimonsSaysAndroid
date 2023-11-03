@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Запомни цвет</string>
+    <string name="score">Рекорд: 0</string>
+    <string name="whitecircle">Белый круг</string>
+    <string name="start">Начать</string>
+</resources>
